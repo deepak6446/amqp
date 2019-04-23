@@ -5,6 +5,7 @@
 3) npm i 
 
 change auth 
+
 test fanout:
 node fanout.js
 
